@@ -52,11 +52,11 @@
   <!-- GitHub Stats -->
   <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-bottom: 30px;">
     <img style="border-radius: 8px; max-width: 100%; width: 350px;" 
-         src="https://github-readme-stats.vercel.app/api?username=pincodes-001&show_icons=true&theme=radical&bg_color=30,0f2027,203a43,2c5364&title_color=fff&text_color=fff&icon_color=FFD700" 
+         src="" 
          alt="GitHub Stats" />
 
     <img style="border-radius: 8px; max-width: 100%; width: 350px;" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=pincodes-001&layout=compact&theme=radical&bg_color=30,0f2027,203a43,2c5364&title_color=fff&text_color=fff" 
+         src="" 
          alt="Top Languages" />
   </div>
 
@@ -66,7 +66,7 @@
     <a href="" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
     </a><br><br>
-    <a href="mailto:kelvin.mwakaluka01@gmail.com">
+    <a href="mailto:kelvinkifunda.077@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail" alt="Email" />
     </a><br><br>
     <a href="https://pincodes.github.io/portfolio/" target="_blank">
