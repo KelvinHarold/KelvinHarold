@@ -63,7 +63,7 @@
   <!-- Contact Section -->
   <div style="background: rgba(255, 255, 255, 0.08); padding: 20px; border-radius: 10px; text-align: center;">
     <h2>📫 Let's Connect</h2>
-    <a href="https://linkedin.com/in/pincodes-001" target="_blank">
+    <a href="" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
     </a><br><br>
     <a href="mailto:kelvin.mwakaluka01@gmail.com">
