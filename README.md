@@ -1,65 +1,76 @@
-<div style="background: linear-gradient(to right, #0f2027, #203a43, #2c5364); padding: 20px; border-radius: 10px; color: white;">
+<div style="background: linear-gradient(to right, #0f2027, #203a43, #2c5364); padding: 30px; border-radius: 12px; color: white; font-family: Arial, sans-serif;">
 
-# Hello, I'm Kelvin 👋  
-<h3 style="color: #FFD700;">Full-Stack Developer | Crafting Scalable Digital Solutions</h3>
+  <!-- Header -->
+  <h1 style="margin-bottom: 10px;">Hello, I'm Kelvin 👋</h1>
+  <h3 style="color: #FFD700; margin-top: 0;">Full-Stack Developer | Crafting Scalable Digital Solutions</h3>
 
-![Coding Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZ3eGJ5eW5mY3Z5dWx1eXZ5ZzV0Z2VnZzB6eGZ6dGJjZGNiYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)
+  <!-- Tech Stack Section -->
+  <div style="background: rgba(255, 255, 255, 0.08); padding: 20px; border-radius: 10px; margin: 25px 0;">
+    <h2 style="margin-bottom: 15px;">🛠️ Tech Stack</h2>
 
-<div style="background: rgba(255, 255, 255, 0.1); padding: 15px; border-radius: 8px; margin: 15px 0;">
+    <strong>Frontend:</strong><br>
+    <span style="display: inline-block; background: #E34F26; padding: 6px 12px; border-radius: 6px; margin: 5px;">HTML5</span>
+    <span style="display: inline-block; background: #1572B6; padding: 6px 12px; border-radius: 6px; margin: 5px;">CSS3</span>
+    <span style="display: inline-block; background: #F7DF1E; padding: 6px 12px; border-radius: 6px; margin: 5px;">JavaScript</span>
+    <span style="display: inline-block; background: #61DAFB; padding: 6px 12px; border-radius: 6px; margin: 5px;">React</span>
 
-## 🛠️ Tech Stack
+    <br><br><strong>Backend:</strong><br>
+    <span style="display: inline-block; background: #339933; padding: 6px 12px; border-radius: 6px; margin: 5px;">Node.js</span>
+    <span style="display: inline-block; background: #777BB4; padding: 6px 12px; border-radius: 6px; margin: 5px;">PHP</span>
 
-**Frontend:**  
-<span style="display: inline-block; background: linear-gradient(45deg, #E34F26, #f06529); padding: 5px 10px; border-radius: 5px; margin: 3px;">HTML5</span>
-<span style="display: inline-block; background: linear-gradient(45deg, #1572B6, #33A9DC); padding: 5px 10px; border-radius: 5px; margin: 3px;">CSS3</span>
-<span style="display: inline-block; background: linear-gradient(45deg, #F7DF1E, #f5de19); padding: 5px 10px; border-radius: 5px; margin: 3px;">JavaScript</span>
-<span style="display: inline-block; background: linear-gradient(45deg, #61DAFB, #21D4FD); padding: 5px 10px; border-radius: 5px; margin: 3px;">React</span>
+    <br><br><strong>Databases:</strong><br>
+    <span style="display: inline-block; background: #4479A1; padding: 6px 12px; border-radius: 6px; margin: 5px;">MySQL</span>
+    <span style="display: inline-block; background: #47A248; padding: 6px 12px; border-radius: 6px; margin: 5px;">MongoDB</span>
 
-**Backend:**  
-<span style="display: inline-block; background: linear-gradient(45deg, #339933, #6CC24A); padding: 5px 10px; border-radius: 5px; margin: 3px;">Node.js</span>
-<span style="display: inline-block; background: linear-gradient(45deg, #777BB4, #AEB2D5); padding: 5px 10px; border-radius: 5px; margin: 3px;">PHP</span>
+    <br><br><strong>Tools:</strong><br>
+    <span style="display: inline-block; background: #F05032; padding: 6px 12px; border-radius: 6px; margin: 5px;">Git</span>
+    <span style="display: inline-block; background: #007ACC; padding: 6px 12px; border-radius: 6px; margin: 5px;">VS Code</span>
+  </div>
 
-**Databases:**  
-<span style="display: inline-block; background: linear-gradient(45deg, #4479A1, #6D9DC5); padding: 5px 10px; border-radius: 5px; margin: 3px;">MySQL</span>
-<span style="display: inline-block; background: linear-gradient(45deg, #47A248, #6CBB3C); padding: 5px 10px; border-radius: 5px; margin: 3px;">MongoDB</span>
+  <!-- Projects & Goals -->
+  <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 30px;">
+    
+    <div style="flex: 1; min-width: 250px; background: linear-gradient(135deg, #6e48aa, #9d50bb); padding: 20px; border-radius: 10px;">
+      <h2>🔭 Current Projects</h2>
+      <ul style="padding-left: 20px;">
+        <li>E-commerce platform (React & Node.js)</li>
+        <li>SaaS application with real-time features</li>
+        <li>Open-source contributions</li>
+      </ul>
+    </div>
 
-**Tools:**  
-<span style="display: inline-block; background: linear-gradient(45deg, #F05032, #F14E32); padding: 5px 10px; border-radius: 5px; margin: 3px;">Git</span>
-<span style="display: inline-block; background: linear-gradient(45deg, #007ACC, #3C99DC); padding: 5px 10px; border-radius: 5px; margin: 3px;">VS Code</span>
-</div>
+    <div style="flex: 1; min-width: 250px; background: linear-gradient(135deg, #4776E6, #8E54E9); padding: 20px; border-radius: 10px;">
+      <h2>🌱 Learning Goals</h2>
+      <ul style="padding-left: 20px;">
+        <li>Microservices Architecture</li>
+        <li>AWS Cloud Technologies</li>
+        <li>GraphQL implementations</li>
+      </ul>
+    </div>
+  </div>
 
-<div style="display: flex; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
-<div style="background: linear-gradient(135deg, #6e48aa 0%, #9d50bb 100%); padding: 15px; border-radius: 8px; flex: 1; min-width: 200px;">
+  <!-- GitHub Stats -->
+  <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-bottom: 30px;">
+    <img style="border-radius: 8px; max-width: 100%; width: 350px;" 
+         src="https://github-readme-stats.vercel.app/api?username=pincodes-001&show_icons=true&theme=radical&bg_color=30,0f2027,203a43,2c5364&title_color=fff&text_color=fff&icon_color=FFD700" 
+         alt="GitHub Stats" />
 
-## 🔭 Current Projects
+    <img style="border-radius: 8px; max-width: 100%; width: 350px;" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=pincodes-001&layout=compact&theme=radical&bg_color=30,0f2027,203a43,2c5364&title_color=fff&text_color=fff" 
+         alt="Top Languages" />
+  </div>
 
-- E-commerce platform (React/Node)
-- SaaS application with real-time features
-- Open-source contributions
-</div>
-
-<div style="background: linear-gradient(135deg, #4776E6 0%, #8E54E9 100%); padding: 15px; border-radius: 8px; flex: 1; min-width: 200px;">
-
-## 🌱 Learning Goals
-
-- Microservices Architecture
-- AWS Cloud Technologies
-- GraphQL implementations
-</div>
-</div>
-
-<div style="display: flex; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
-<img style="border-radius: 8px; flex: 1; min-width: 300px;" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&bg_color=30,0f2027,203a43,2c5364&title_color=fff&text_color=fff&icon_color=FFD700" />
-<img style="border-radius: 8px; flex: 1; min-width: 300px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&bg_color=30,0f2027,203a43,2c5364&title_color=fff&text_color=fff" />
-</div>
-
-<div style="background: rgba(255, 255, 255, 0.1); padding: 15px; border-radius: 8px; margin: 15px 0; text-align: center;">
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20my%20work-4CAF50?style=for-the-badge)](https://yourwebsite.com)  
-[![Email](https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail)](mailto:youremail@example.com)
-</div>
-
+  <!-- Contact Section -->
+  <div style="background: rgba(255, 255, 255, 0.08); padding: 20px; border-radius: 10px; text-align: center;">
+    <h2>📫 Let's Connect</h2>
+    <a href="https://linkedin.com/in/pincodes-001" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    </a><br><br>
+    <a href="mailto:kelvin.mwakaluka01@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail" alt="Email" />
+    </a><br><br>
+    <a href="https://pincodes.github.io/portfolio/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-Visit%20my%20work-4CAF50?style=for-the-badge" alt="Portfolio" />
+    </a>
+  </div>
 </div>
