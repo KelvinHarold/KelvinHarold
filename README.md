@@ -1,107 +1,51 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Kelvin's GitHub Portfolio</title>
-  <script src="https://cdn.tailwindcss.com"></script>
-</head>
-<body class="bg-gradient-to-b from-gray-900 to-gray-800 text-white font-sans">
+# Hello, I'm Kelvin 👋
 
-  <!-- Container -->
-  <div class="max-w-6xl mx-auto p-6">
+### Full-Stack Developer | Crafting Scalable Digital Solutions
 
-    <!-- Header -->
-    <header class="text-center mb-12">
-      <h1 class="text-5xl font-extrabold mb-2">Hello, I'm Kelvin 👋</h1>
-      <h3 class="text-xl text-yellow-400">Full-Stack Developer | Crafting Scalable Digital Solutions</h3>
-    </header>
+---
 
-    <!-- Tech Stack -->
-    <section class="bg-gray-800/50 p-6 rounded-xl mb-12">
-      <h2 class="text-3xl font-bold mb-4">🛠️ Tech Stack</h2>
+## 🛠️ Tech Stack
 
-      <div class="mb-4">
-        <h3 class="font-semibold">Frontend:</h3>
-        <div class="flex flex-wrap gap-2 mt-2">
-          <span class="bg-red-600 px-3 py-1 rounded-full">HTML5</span>
-          <span class="bg-blue-600 px-3 py-1 rounded-full">CSS3</span>
-          <span class="bg-yellow-400 text-black px-3 py-1 rounded-full">JavaScript</span>
-          <span class="bg-cyan-400 text-black px-3 py-1 rounded-full">React</span>
-        </div>
-      </div>
+**Frontend:**
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-      <div class="mb-4">
-        <h3 class="font-semibold">Backend:</h3>
-        <div class="flex flex-wrap gap-2 mt-2">
-          <span class="bg-green-600 px-3 py-1 rounded-full">Node.js</span>
-          <span class="bg-purple-600 px-3 py-1 rounded-full">PHP</span>
-        </div>
-      </div>
+**Backend:**
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-      <div class="mb-4">
-        <h3 class="font-semibold">Databases:</h3>
-        <div class="flex flex-wrap gap-2 mt-2">
-          <span class="bg-blue-700 px-3 py-1 rounded-full">MySQL</span>
-          <span class="bg-green-700 px-3 py-1 rounded-full">MongoDB</span>
-        </div>
-      </div>
+**Databases:**
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-      <div>
-        <h3 class="font-semibold">Tools:</h3>
-        <div class="flex flex-wrap gap-2 mt-2">
-          <span class="bg-red-500 px-3 py-1 rounded-full">Git</span>
-          <span class="bg-blue-500 px-3 py-1 rounded-full">VS Code</span>
-        </div>
-      </div>
-    </section>
+**Tools:**
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-    <!-- Projects & Learning -->
-    <section class="flex flex-col md:flex-row gap-6 mb-12">
-      <div class="flex-1 bg-gradient-to-br from-purple-600 to-pink-600 p-6 rounded-xl shadow-lg">
-        <h2 class="text-2xl font-bold mb-3">🔭 Current Projects</h2>
-        <ul class="list-disc list-inside space-y-2">
-          <li>E-commerce platform (React & Node.js)</li>
-          <li>SaaS application with real-time features</li>
-          <li>Open-source contributions</li>
-        </ul>
-      </div>
+---
 
-      <div class="flex-1 bg-gradient-to-br from-blue-600 to-indigo-600 p-6 rounded-xl shadow-lg">
-        <h2 class="text-2xl font-bold mb-3">🌱 Learning Goals</h2>
-        <ul class="list-disc list-inside space-y-2">
-          <li>Microservices Architecture</li>
-          <li>AWS Cloud Technologies</li>
-          <li>GraphQL implementations</li>
-        </ul>
-      </div>
-    </section>
+## 🔭 Current Projects
+- E-commerce platform (React & Node.js)
+- SaaS application with real-time features
+- Open-source contributions
 
-    <!-- Contact Section -->
-    <section class="bg-gray-800/50 p-6 rounded-xl text-center">
-      <h2 class="text-3xl font-bold mb-4">📫 Let's Connect</h2>
-      <div class="flex flex-wrap justify-center gap-4">
-        <a href="https://www.linkedin.com/in/kelvin-kifunda/" target="_blank" class="bg-blue-600 px-4 py-2 rounded-lg hover:bg-blue-700 transition">
-          LinkedIn
-        </a>
-        <a href="mailto:kelvinkifunda.077@gmail.com" class="bg-red-600 px-4 py-2 rounded-lg hover:bg-red-700 transition">
-          Email Me
-        </a>
-        <a href="https://pincodes.github.io/portfolio/" target="_blank" class="bg-green-600 px-4 py-2 rounded-lg hover:bg-green-700 transition">
-          Portfolio
-        </a>
-      </div>
-    </section>
+---
 
-    <!-- Footer -->
-    <footer class="text-center text-gray-400 mt-12">
-      © <span id="year"></span> Kelvin Kifunda. All rights reserved.
-    </footer>
+## 🌱 Learning Goals
+- Microservices Architecture
+- AWS Cloud Technologies
+- GraphQL implementations
 
-  </div>
+---
 
-  <script>
-    document.getElementById('year').textContent = new Date().getFullYear();
-  </script>
-</body>
-</html>
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kelvin-kifunda/)
+[![Email](https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail)](mailto:kelvinkifunda.077@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20my%20work-4CAF50?style=for-the-badge)](https://pincodes.github.io/portfolio/)
+
+---
+
+© Kelvin Kifunda, 2025. All rights reserved.
