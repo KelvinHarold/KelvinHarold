@@ -77,29 +77,18 @@
       </div>
     </section>
 
-    <!-- GitHub Stats -->
-    <section class="flex flex-col md:flex-row gap-6 justify-center mb-12">
-      <img class="rounded-xl shadow-lg w-full md:w-80" 
-           src="https://github-readme-stats.vercel.app/api?username=pincodes&show_icons=true&theme=radical" 
-           alt="GitHub Stats" />
-
-      <img class="rounded-xl shadow-lg w-full md:w-80" 
-           src="https://github-readme-stats.vercel.app/api/top-langs/?username=pincodes&layout=compact&theme=radical" 
-           alt="Top Languages" />
-    </section>
-
     <!-- Contact Section -->
     <section class="bg-gray-800/50 p-6 rounded-xl text-center">
       <h2 class="text-3xl font-bold mb-4">📫 Let's Connect</h2>
       <div class="flex flex-wrap justify-center gap-4">
-        <a href="https://www.linkedin.com/in/kelvin-kifunda/" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+        <a href="https://www.linkedin.com/in/kelvin-kifunda/" target="_blank" class="bg-blue-600 px-4 py-2 rounded-lg hover:bg-blue-700 transition">
+          LinkedIn
         </a>
-        <a href="mailto:kelvinkifunda.077@gmail.com">
-          <img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail" alt="Email" />
+        <a href="mailto:kelvinkifunda.077@gmail.com" class="bg-red-600 px-4 py-2 rounded-lg hover:bg-red-700 transition">
+          Email Me
         </a>
-        <a href="https://pincodes.github.io/portfolio/" target="_blank">
-          <img src="https://img.shields.io/badge/Portfolio-Visit%20my%20work-4CAF50?style=for-the-badge" alt="Portfolio" />
+        <a href="https://pincodes.github.io/portfolio/" target="_blank" class="bg-green-600 px-4 py-2 rounded-lg hover:bg-green-700 transition">
+          Portfolio
         </a>
       </div>
     </section>
